@@ -17,7 +17,7 @@ This project is portable and thus, not need any installation.
 ## Download
 
 Download the Source Code from:
-[url:https://gwbasicnet.codeplex.com/SourceControl/latest]
+[**Here**](https://github.com/naumanumer/GwBasic.Net)
 
 Download Portable file from:
 [url:https://gwbasicnet.codeplex.com/releases]
