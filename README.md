@@ -14,14 +14,6 @@ The project needs following to work fine:
 
 This project is portable and thus, not need any installation.
 
-## Download
-
-Download the Source Code from:
-[**Here**](https://github.com/naumanumer/GwBasic.Net)
-
-Download Portable file from:
-[url:https://gwbasicnet.codeplex.com/releases]
-
 ## Documentation
 
 Documentation of this project is not available yet.
@@ -36,8 +28,8 @@ You can also Connect with the GwBasic.Net at its official page:
 
 ## License
 
-This Project is Licensed under *Microsoft Public License (Ms-PL)*. see the licence at:
-[url:https://gwbasicnet.codeplex.com/license]
+This Project is Licensed under **GNU GENERAL PUBLIC LICENSE**. see the licence at:
+[Licence](../blob/master/LICENSE)
 
 ## Credits
 
