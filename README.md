@@ -48,10 +48,10 @@ This project is made possible because of following opensource projects:
 * BorderlessForm ([url:http://www.codeproject.com/Articles/24005/Resizable-Moveable-Customizable-Borderless-Form])
 
 This project is also made possible because of following persons:
-# Asma Marryum
-# Adnan Umer
-# Zia-ur-Rehman
-# Saleem Hassan
-# Arslan Noor
-# Bilal Arshad
-# Umar Farooq
+* Asma Marryum
+* Adnan Umer
+* Zia-ur-Rehman
+* Saleem Hassan
+* Arslan Noor
+* Bilal Arshad
+* Umar Farooq
