@@ -77,14 +77,45 @@
 
     <!-- Page Content -->
     <div class="content-section-b">
-<form action="https://formspree.io/u.nauman@outlook.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>
-        <!-- /.container -->
-
+        <div class="container">
+            <div class="row">
+                <form action="https://formspree.io/u.nauman@outlook.com"
+                    method="POST">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                        <label>Your Name</label>
+                        <input type="text" name="name" placeholder="Name" class="form-control"/>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                        <label>Email</label>
+                        <input type="email" name="email" placeholder="Email" class="form-control"/>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                        <label>Select the the catagory</label>
+                        <select list="browsers" name="catagory" class="form-control">
+                            <option>Message</option>
+                            <option>Suggestion</option>
+                            <option>Testimonial</option>
+                            <option>Request</option>
+                        </select>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                        <label>Message</label>
+                        <textarea type="text" name="email" class="form-control"></textarea>
+                        </div>
+                    </div>
+                    <div class="col-md-2 form-group">
+                    <input type="submit" value="Send" class="form-control pull-right">
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
     <!-- /.content-section-a -->
 
