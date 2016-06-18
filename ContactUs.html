@@ -64,7 +64,7 @@
         <div class="container">
 
             <div class="row">
-                        <h1 style="margin-top: 100px;">Contac Us</h1>
+                        <h1 style="margin-top: 100px;">Contact Us</h1>
                         <hr />
                 </div>
             </div>
@@ -78,43 +78,75 @@
     <!-- Page Content -->
     <div class="content-section-b">
         <div class="container">
+            <div class="row text-center">
+                <h3>Get In Touch With Me Today</h3>
+                <p class="lead"><small>You’ve got questions, and I have answers. Just send me a message and <br/>I will be in contact with you within 48hrs – even on weekends and holidays.</small></p>
+            </div>
+            <div class="clearfix"></div>
+            <hr />
             <div class="row">
+                <h4>Contact Us Directly</h4>
+                <p class="lead" style="margin-left:2%;"><small>NOTE: All the required fields are markd as <i class="glyphicon glyphicon-ok"></i>.</small></p>
                 <form action="https://formspree.io/u.nauman@outlook.com"
                     method="POST">
                     <div class="col-md-6">
                         <div class="form-group">
                         <label>Your Name</label>
-                        <input type="text" name="name" placeholder="Name" class="form-control"/>
+                        <div class="input-group">
+                            <input type="text" name="name" placeholder="Name" class="form-control" required="True"/>
+                            <span class="input-group-addon lead" id="basic-addon1"><i class="glyphicon glyphicon-ok"></i></span>
+                        </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                         <label>Email</label>
-                        <input type="email" name="email" placeholder="Email" class="form-control"/>
+                        <div class="input-group">
+                            <input type="email" name="email" placeholder="Email" class="form-control" required="True"/>
+                            <span class="input-group-addon lead" id="basic-addon1"><i class="glyphicon glyphicon-ok"></i></span>
+                        </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                         <label>Select the the catagory</label>
+                        <div class="input-group">                            
                         <select list="browsers" name="catagory" class="form-control">
                             <option>Message</option>
                             <option>Suggestion</option>
                             <option>Testimonial</option>
                             <option>Request</option>
                         </select>
+                        <span class="input-group-addon lead" id="basic-addon1"><i class="glyphicon glyphicon-ok"></i></span>
+                        </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>What you are?</label>
+                            <div class="input-group"> 
+                                <input name="rank" class="form-control" placeholder="e.g Teacher at some school" required="True"/>
+                                <span class="input-group-addon lead" id="basic-addon1"><i class="glyphicon glyphicon-ok"></i></span>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                        <label>Message</label>
-                        <textarea type="text" name="message" class="form-control"></textarea>
+                        <label>What you want to say</label>
+                        <div class="input-group"> 
+                            <textarea type="text" name="message" class="form-control" rows="6" required="True"></textarea>
+                            <span class="input-group-addon lead" id="basic-addon1"><i class="glyphicon glyphicon-ok"></i></span>
+                        </div>
                         </div>
                     </div>
-                    <div class="col-md-2 form-group">
-                    <input type="submit" value="Send" class="form-control pull-right">
+                    <div class="col-md-11"></div>
+                    <div class="col-md-1 form-group">
+                    <input type="submit" value="Send" class="form-control btn btn-primary">
                     </div>
                 </form>
             </div>
+            <hr/>
+            <div class="text-center" style="margin-top: -31px;"><p><i style="background-color: #fff;padding: 5px;">OR</i></p></div>
         </div>
     </div>
     <!-- /.content-section-a -->
