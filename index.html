@@ -52,8 +52,16 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="#" >Home</a></li>
                     <li><a href="Download.html">Download</a></li>
-                    <li><a href="ContactUs.html">Contact Us</a></li>
-                </ul>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact Us <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="ContactUs.html">Contact Us</a></li>
+                            <li><a href="testimonial.html">Testinonials</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">About</a></li>
+                        </ul>
+                    </li>
+                    
             </div>
             <!-- /.navbar-collapse -->
         </div>
@@ -263,7 +271,7 @@
     <hr/>
     <div class="clearfix"></div>
    <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-12 hidden">
          <div class="carousel slide" data-ride="carousel" id="quote-carousel">
             <!-- Bottom Carousel Indicators -->
             <ol class="carousel-indicators">
@@ -303,7 +311,17 @@
             </div>
          </div>
       </div>
+      <p class="text-center lead"><i>No testmonial found</i></p>
    </div>
+   <div class="row">
+            <div class="col-sm-5 text-center">
+                <p class="lead">Want to say some thing about <strong>GwBasic.Net</strong></p>
+            </div>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-4 text-center">
+                <a class="btn btn-default btn-lg" href="testimonial.html">Write Testimonial</a>
+            </div> 
+        </div>
 </div>
 </div>
 
