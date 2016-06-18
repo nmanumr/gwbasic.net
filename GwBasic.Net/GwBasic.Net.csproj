@@ -52,9 +52,8 @@
     <ApplicationIcon>icon256x256.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FastColoredTextBox, Version=2.16.11.0, Culture=neutral, PublicKeyToken=fb8aa12b994ef61b, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\GwBasic.Net\SynHighlightDemo\bin\Debug\FastColoredTextBox.dll</HintPath>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>G:\GwBasic.Net\v1.0 Beta\GwBasic.Net\bin\Debug\FastColoredTextBox.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -476,7 +475,6 @@
     <None Include="Resources\Untitled-3.png" />
     <None Include="Resources\ezgif.com-resize.gif" />
     <None Include="Resources\DN.png" />
-    <None Include="Resources\cut.png" />
     <None Include="Resources\CtrlBtn.png" />
     <None Include="Resources\clsh.png" />
     <None Include="Resources\Save.png" />

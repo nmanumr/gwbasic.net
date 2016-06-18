@@ -242,6 +242,7 @@ namespace GwBasic.Net
             // miniTimer_LinkLabel3
             // 
             this.miniTimer_LinkLabel3.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(134)))), ((int)(((byte)(158)))));
+            this.miniTimer_LinkLabel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.miniTimer_LinkLabel3.AutoSize = true;
             this.miniTimer_LinkLabel3.BackColor = System.Drawing.Color.WhiteSmoke;
             this.miniTimer_LinkLabel3.Font = new System.Drawing.Font("Tahoma", 9.75F);
@@ -258,6 +259,7 @@ namespace GwBasic.Net
             // miniTimer_LinkLabel2
             // 
             this.miniTimer_LinkLabel2.ActiveLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(134)))), ((int)(((byte)(158)))));
+            this.miniTimer_LinkLabel2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.miniTimer_LinkLabel2.AutoSize = true;
             this.miniTimer_LinkLabel2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.miniTimer_LinkLabel2.Font = new System.Drawing.Font("Tahoma", 9.75F);
@@ -274,6 +276,7 @@ namespace GwBasic.Net
             // 
             // miniTimer_Label5
             // 
+            this.miniTimer_Label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.miniTimer_Label5.AutoSize = true;
             this.miniTimer_Label5.BackColor = System.Drawing.Color.WhiteSmoke;
             this.miniTimer_Label5.Font = new System.Drawing.Font("Tahoma", 9.75F);
