@@ -38,12 +38,3 @@ This project is made possible because of following opensource projects:
 * PcBasic ([url:http://robhagemans.github.io/pcbasic/])
 * FCTB ([url:http://www.codeproject.com/Articles/161871/Fast-Colored-TextBox-for-syntax-highlighting])
 * BorderlessForm ([url:http://www.codeproject.com/Articles/24005/Resizable-Moveable-Customizable-Borderless-Form])
-
-This project is also made possible because of following persons:
-* Asma Marryum
-* Adnan Umer
-* Zia-ur-Rehman
-* Saleem Hassan
-* Arslan Noor
-* Bilal Arshad
-* Umar Farooq
