@@ -21,11 +21,6 @@ you can see the documentation about GwBasic here:
 * GwBasic ([url:http://www.antonis.de/qbebooks/gwbasman/])
 * PcBasic ([url:http://robhagemans.github.io/pcbasic/doc/])
 
-## Social Network:
-
-You can also Connect with the GwBasic.Net at its official page:
-[url:https://www.fb.com/GwBasic.Net]
-
 ## License
 
 This Project is Licensed under **GNU GENERAL PUBLIC LICENSE**. see the licence at:
