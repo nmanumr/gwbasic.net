@@ -7,7 +7,7 @@ This project is built using winform c#. the main focus of this project is to int
 ## Prerequisites
 
 The project needs following to work fine:
-* .Net Frame 2.0
+* .NET 6 with Microsoft Windows
 * PcBasic (already Included with GwBasic.Net)
 
 ## Installation
