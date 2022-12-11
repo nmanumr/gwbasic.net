@@ -6,6 +6,8 @@
     <UseWindowsForms>true</UseWindowsForms>
 
     <ApplicationIcon>icon256x256.ico</ApplicationIcon>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
   </PropertyGroup>
 
   <ItemGroup>
