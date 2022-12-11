@@ -21,6 +21,12 @@ you can see the documentation about GwBasic here:
 * GwBasic ([url:http://www.antonis.de/qbebooks/gwbasman/])
 * PcBasic ([url:http://robhagemans.github.io/pcbasic/doc/])
 
+## Resources/Examples
+
+* https://github.com/jonatasdemello/GWBasicComputerGames
+* https://github.com/Subhankar2000/GWBASIC
+* https://github.com/jonatasdemello/gwbasic/tree/master/GW-Basic
+
 ## License
 
 This Project is Licensed under **GNU GENERAL PUBLIC LICENSE**. see the licence at:
