@@ -7,7 +7,7 @@ This project is built using winform c#. the main focus of this project is to int
 ## Prerequisites
 
 The project needs following to work fine:
-* .Net Frame 2.0
+* .NET 6 with Microsoft Windows
 * PcBasic (already Included with GwBasic.Net)
 
 ## Installation
@@ -20,6 +20,12 @@ Documentation of this project is not available yet.
 you can see the documentation about GwBasic here:
 * GwBasic ([url:http://www.antonis.de/qbebooks/gwbasman/])
 * PcBasic ([url:http://robhagemans.github.io/pcbasic/doc/])
+
+## Resources/Examples
+
+* https://github.com/jonatasdemello/GWBasicComputerGames
+* https://github.com/Subhankar2000/GWBASIC
+* https://github.com/jonatasdemello/gwbasic/tree/master/GW-Basic
 
 ## License
 
